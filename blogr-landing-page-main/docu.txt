@@ -1,0 +1,6 @@
+    <div class="phone-card">
+      <img src="./images/illustration-editor-desktop.svg" alt="desktop">
+      <h3 class="h3">Desktop App</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor turpis non neque semper, vel fermentum felis consectetur.</p>
+    </div>
+    <div class="phone-card">
